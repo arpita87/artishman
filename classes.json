@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "painting",
+    "img": "https://i.ibb.co/MfkzXcQ/blank-canvas-painting-indoors-still-life-1.jpg",
+    "title": "Master in Painting",
+    "description": "Learn the basic techniques and principles using various mediums.",
+    "duration": "12 weeks",
+    "fee": "$300",
+    "instructor": "Emily Johnson",
+    "availableSeats": 15
+  },
+  {
+    "id": 2,
+    "name": "pottery",
+    "img": "https://i.ibb.co/t4zNCtB/artisan-doing-pottery-studio.jpg",
+    "title": "Introduction to Pottery",
+    "description": "Discover the art of pottery and create functional ceramic pieces.",
+    "duration": "8 weeks",
+    "fee": "$250",
+    "instructor": "John Smith",
+    "availableSeats": 12
+  },
+  {
+    "id": 3,
+    "name": "paper craft",
+    "img": "https://i.ibb.co/yftMZYC/play-dough-background-with-whale-sun.jpg",
+    "title": "Paper Craft Workshop",
+    "description": "Explore the world of paper crafting and learn unique techniques.",
+    "duration": "6 weeks",
+    "fee": "$200",
+    "instructor": "Sarah Thompson",
+    "availableSeats": 10
+  },
+  {
+    "id": 4,
+    "name": "sculpture",
+    "img": "https://i.ibb.co/K9mKWm3/vertical-shot-bust-philosopher-isolated.jpg",
+    "title": "Sculpture Techniques",
+    "description": "Master the art of sculpture and create three-dimensional artworks.",
+    "duration": "10 weeks",
+    "fee": "$350",
+    "instructor": "Michael Anderson",
+    "availableSeats": 8
+  },
+  {
+    "id": 5,
+    "name": "drawing",
+    "img": "drawing-category-img.jpg",
+    "title": "Introduction to Drawing",
+    "description": "Learn the fundamental skills and techniques of drawing.",
+    "duration": "8 weeks",
+    "fee": "$200",
+    "instructor": "Jessica Adams",
+    "availableSeats": 10
+  },
+  {
+    "id": 6,
+    "name": "ceramics",
+    "img": "ceramics-category-img.jpg",
+    "title": "Advanced Ceramics Workshop",
+    "description": "Take your pottery skills to the next level with advanced ceramic techniques.",
+    "duration": "10 weeks",
+    "fee": "$350",
+    "instructor": "David Roberts",
+    "availableSeats": 8
+  },
+  {
+    "id": 7,
+    "name": "woodworking",
+    "img": "woodworking-category-img.jpg",
+    "title": "Woodworking Essentials",
+    "description": "Learn the basics of woodworking and create functional wooden crafts.",
+    "duration": "12 weeks",
+    "fee": "$300",
+    "instructor": "Robert Thompson",
+    "availableSeats": 15
+  },
+  {
+    "id": 8,
+    "name": "calligraphy",
+    "img": "calligraphy-category-img.jpg",
+    "title": "Modern Calligraphy Workshop",
+    "description": "Discover the art of modern calligraphy and create beautiful lettering.",
+    "duration": "6 weeks",
+    "fee": "$200",
+    "instructor": "Sophie Wilson",
+    "availableSeats": 10
+  }
+]
